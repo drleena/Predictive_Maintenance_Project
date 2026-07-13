@@ -1,0 +1,6 @@
+Model,Train Accuracy,Test Accuracy,Precision,Recall,F1 Score,ROC AUC
+LogisticRegression,0.8205,0.823,0.1425,0.8382,0.2436,0.9074
+DecisionTreeClassifier,1.0,0.956,0.4123,0.6912,0.5165,0.8282
+RandomForestClassifier,1.0,0.9705,0.5464,0.7794,0.6424,0.9702
+KNeighborsClassifier,0.9764,0.932,0.3023,0.7647,0.4333,0.8966
+SVC,0.9491,0.92,0.285,0.8971,0.4326,0.9642
